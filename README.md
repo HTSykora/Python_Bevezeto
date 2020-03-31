@@ -1,4 +1,3 @@
-# Python_Bevezeto
 #### Python bevezető/összefoglaló a BME-GPK hallgatóinak
 
 Az itt található anyag célja, hogy a számítások Python programozási nyelven történő automatizálásának alapjait összefoglalja.
